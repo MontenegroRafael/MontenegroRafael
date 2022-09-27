@@ -1,4 +1,5 @@
-### Olá, me chamo Rafael ! 
+##
+### Olá, eu sou o Rafael ! 
 #### Bem vindo 👋
 
 
@@ -6,8 +7,8 @@
 
 <div>
 <a href="https://github.com/MontenegroRafael">
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontenegroRafael&layout=compact&langs_count=7&theme=dracula"/>
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=MontenegroRafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontenegroRafael&layout=compact&langs_count=7&theme=dark"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api?username=MontenegroRafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div>
@@ -25,7 +26,7 @@
                                                        
 
 </div>       
-
+##
 #### Contatos:
 <div>
 <a href = "mailto:rafaelmrc3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
