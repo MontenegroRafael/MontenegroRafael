@@ -1,7 +1,19 @@
-
+<!--
 ##
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Olá,+seja+bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Giulianno+Ramos+%F0%9F%8D%B7+%F0%9F%97%BF;Aluno+do+Entra21+turma+2022+%F0%9F%8E%93;Gosto+de+resolver+problemas+%f0%9f%92%a1" alt="Headline" />
+    </div>
+-->
+##
+>#### _“Digno és tu, Senhor e Deus nosso, de receber a glória, a honra e o poder,_
+>####  _pois foste tu que criaste o universo; por tua vontade, ele não era e foi criado."_
+>####  - Apocalipse 4:11
+##
+
 ### Olá, eu sou o Rafael ! 
 #### Bem vindo 👋
+
+####
 
 <div>
 <a href="https://github.com/MontenegroRafael">
